@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubCase", "RubCase\RubCase.csproj", "{98B5AD6C-841A-440F-B666-D89BDF0CFA68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubCaseTest", "RubCaseTest\RubCaseTest.csproj", "{ABF58E65-BCAB-4308-BC59-7E64DF1B4D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98B5AD6C-841A-440F-B666-D89BDF0CFA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B5AD6C-841A-440F-B666-D89BDF0CFA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B5AD6C-841A-440F-B666-D89BDF0CFA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B5AD6C-841A-440F-B666-D89BDF0CFA68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF58E65-BCAB-4308-BC59-7E64DF1B4D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF58E65-BCAB-4308-BC59-7E64DF1B4D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF58E65-BCAB-4308-BC59-7E64DF1B4D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF58E65-BCAB-4308-BC59-7E64DF1B4D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF576A2E-8167-4E88-9BDA-40F1DC18AC50}
+	EndGlobalSection
+EndGlobal
